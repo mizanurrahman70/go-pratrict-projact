@@ -9,4 +9,6 @@ package main
 import "fmt"
 func main (){
 	fmt.Println("hello , this is my fast go proajct")
+	a := 70;
+	fmt.Println(a)
 }
