@@ -12,5 +12,6 @@ func main (){
 	// a := 70;
 	// fmt.Println(a)
 	add(50,60)
+	add(20,60)
 
 }
